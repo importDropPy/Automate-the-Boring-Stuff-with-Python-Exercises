@@ -75,6 +75,9 @@
                 - Remember, a working Python script will always solve an expression and return a value
                 - If this value is not printed then you will not see it in the terminal/shell/console
                 - With functions, for example, we use the 'return' statement to return the value within the function
+                - While returning the value allows this value to be used anywhere else in the program, still, the only
+                    way we can actually see it is by utilizing the print() function
+                - The print() function also allows us to debug our program and see what things it is doing wrong
     
     - RESOURCES = https://automatetheboringstuff.com/3e/chapter1.html
     - Other possible answers are in the triple quoted ''' ''' comments section below
@@ -210,6 +213,7 @@ print(r)
 
 
 '''
+
 
 
 
