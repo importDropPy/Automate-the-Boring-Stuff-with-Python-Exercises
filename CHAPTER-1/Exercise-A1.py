@@ -68,8 +68,13 @@
 
 '''
     EXERCISE A1
-    - SOLVE = Write an expression with EVERY mathematical operator 
-                while also keeping in mind the 'Order of Operations' aka 'Precedence'
+    - SOLVE = -Write an expression with EVERY mathematical operator 
+                while also keeping in mind the 'Order of Operations' aka 'Precedence'.
+                - Bonus = Assign a variable to that expression and then use the print() function 
+                    to print the returned value
+                - Remember, a working Python script will always solve an expression and return a value
+                - If this value is not printed then you will not see it in the terminal/shell/console
+                - With functions, for example, we use the 'return' statement to return the value within the function
     
     - RESOURCES = https://automatetheboringstuff.com/3e/chapter1.html
     - Other possible answers are in the triple quoted ''' ''' comments section below
@@ -205,6 +210,7 @@ print(r)
 
 
 '''
+
 
 
 
